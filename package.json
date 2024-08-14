@@ -1,6 +1,6 @@
 {
   "name": "sized-array",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "TypeScript Definition for an Array of a Specific Size",
   "repository": {
     "type": "git",
