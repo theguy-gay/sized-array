@@ -1,0 +1,29 @@
+{
+  "name": "sized-array",
+  "version": "1.0.0",
+  "description": "TypeScript Definition for an Array of a Specific Size",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theguy-gay/sized-array.git"
+  },
+  "author": "theguy-gay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theguy-gay/sized-array/issues"
+  },
+  "homepage": "https://github.com/theguy-gay/sized-array#readme",
+  "main": "declarations/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint declarations/index.d.ts",
+    "lint:fix": "eslint --fix declarations/index.d.ts"
+  },
+  "types": "declarations/index.d.ts",
+  "devDependencies": {
+    "@eslint/js": "^9.3.0",
+    "@types/eslint__js": "^8.42.3",
+    "eslint": "^8.57.0",
+    "typescript": "^5.4.5",
+    "typescript-eslint": "^7.11.0"
+  }
+}
